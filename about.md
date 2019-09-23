@@ -21,4 +21,4 @@ OnTheCode-Co está formado por cuatro integrantes:
 
 ### Contacto
 
-[onthecode.co@gmail.com](onthecode.co@gmail.com)
+[onthecode.co@gmail.com](mailto:onthecode.co@gmail.com)
