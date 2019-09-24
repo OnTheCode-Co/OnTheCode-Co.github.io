@@ -14,10 +14,10 @@ Así pues ofrecer:
 ### Más información
 
 OnTheCode-Co está formado por cuatro integrantes:
-  - Julen Castillo
-  - Julen Prieto
-  - Iñaki Caballero
-  - Jon Santos
+  - Julen Castillo    - Coordinador
+  - Julen Prieto      - Planificador
+  - Iñaki Caballero   - Reportero
+  - Jon Santos        - Armonizador
 
 ### Contacto
 
